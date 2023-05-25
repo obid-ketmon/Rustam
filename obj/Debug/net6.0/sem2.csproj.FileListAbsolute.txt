@@ -1,0 +1,15 @@
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.csproj.AssemblyReference.cache
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.AssemblyInfoInputs.cache
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.AssemblyInfo.cs
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.csproj.CoreCompileInputs.cache
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\bin\Debug\net6.0\sem2.exe
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\bin\Debug\net6.0\sem2.deps.json
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\bin\Debug\net6.0\sem2.runtimeconfig.json
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\bin\Debug\net6.0\sem2.dll
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\bin\Debug\net6.0\sem2.pdb
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.dll
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\refint\sem2.dll
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.pdb
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\sem2.genruntimeconfig.cache
+D:\Obid\Lesson\Geek Brains\Урок 4 (Знакомство с языками программирования)\sem2\obj\Debug\net6.0\ref\sem2.dll
